@@ -13,3 +13,5 @@ Personal portfolio for Hariharasudhan P.
 ## Notes
 
 This portfolio intentionally contains only projects confirmed by Hariharasudhan P. Unrelated projects are excluded.
+
+Production styling is loaded for static hosting and the portfolio is deployed through Vercel.
