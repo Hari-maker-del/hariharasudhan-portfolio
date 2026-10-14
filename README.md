@@ -1,6 +1,6 @@
 # Hariharasudhan P — Portfolio
 
-Personal portfolio for **Hariharasudhan P**, a B.Tech Information Technology student and developer focused on full-stack development, AI-powered applications, computer vision, automation, and practical software products.
+Personal portfolio for **Hariharasudhan P**, a B.Tech Information Technology student and aspiring software developer focused on Java, Python, full-stack development, AI-powered applications, computer vision, and practical software products.
 
 ## Live Portfolio
 
@@ -19,6 +19,10 @@ https://hariharasudhan-portfolio-eight.vercel.app
 - **Puthumai Ulavan** — AI farmer co-pilot concept
 - **Runbook Following Agent** — AI-assisted operational workflow automation
 - **Cattle & Buffalo Breed Analyzer** — image-based computer vision project
+
+## Professional Positioning
+
+**Aspiring Software Developer | Full-Stack Development | Java & Python | AI-Powered Applications**
 
 ## Core Stack
 
